@@ -1,0 +1,19 @@
+<name>:
+  dust:
+  en: Disk Usage analyzer (rust)
+  cn: 磁盘使用情况分析器（Rust 版本）
+<synopsis>:
+<desc>:
+  en: |
+    dust is a more intuitive version of du in rust.
+    It sorts by file size, uses terminal colors, and provides interactive visualization.
+  cn: |
+    dust 是 du 的 Rust 实现，功能更强：按大小排序、彩色输出、交互式可视化。
+
+<ref>: x-cmd-advise://dust/advise.t.jso
+
+<other>:
+  en:
+    "Please visit our homepage for more information:": "https://x-cmd.com"
+  cn:
+    "请访问我们的主页以获取更多信息：": "https://x-cmd.com"

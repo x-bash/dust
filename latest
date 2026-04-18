@@ -4,3 +4,11 @@
 # maintainer:   Li Junhao
 
 xrc dust/v0
+
+xrc:mod:lib     dust    main
+
+___x_cmd_dust(){
+    ___x_cmd_dust___main "$@"
+}
+
+xrc setmain ___x_cmd_dust
